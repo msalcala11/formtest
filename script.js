@@ -1,6 +1,6 @@
 var name = $('#name').val();
 var age = $('#age').val();
-var dataString = 'Name: ' + name + 'Age: ' + age;
+var dataString = 'Name: ' + name + ' Age: ' + age;
 
 console.log('running script');
 

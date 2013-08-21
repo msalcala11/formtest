@@ -1,0 +1,2 @@
+yo[object Object]{ username: 'John Doe', userage: '99' }{ username: 'John Doe', userage: '99' }
+{ username: 'Mickey', userage: '8' }

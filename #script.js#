@@ -9,8 +9,9 @@ $('#myForm').submit(function(event){
     $.ajax({  
 	type: "POST",  
 	url: "/formhandler",  
-	data: {name: name, age: age},  
-//	data: "{'name':'" + name + "', 'age':'" + age + "'}",
+//	data: {name: name, age: age},  
+	data: "{'name':'" + name + "', 'age':'" + age + "'}",
+	processData: false;
 	success: function() {  
 	    //display message back to user here  
 	}  

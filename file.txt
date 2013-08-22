@@ -6,3 +6,23 @@ yo[object Object]{ username: 'John Doe', userage: '99' }{ username: 'John Doe', 
 { username: 'fatso', userage: '69' }
 { username: 'John Doe', userage: '99' }
 { 'Name: John DoeAge: 99': '' }
+{ 'Name:  Age: ': '' }
+{ 'Name: adlkfj Age: asldkjf': '' }
+{ 'Name: buddy Age: stud': '' }
+{ name: 'kjf', age: 'alskdfj' }
+{ name: 'tita', age: '15' }
+{ name: 'jkljf', age: 'alksjd' }
+{ name: 'hi' }
+{ name: 'nye' }
+{ name: 'hhjj', age: '23' }
+{ name: 'asdj', age: 'alksdj' }
+{ name: 'sjf', age: 'adj' }
+{ name: 'asdfas', age: 'asdfa' }
+{ '{\'name\':\'askd\', \'age\':\'aslkdjf\'}': '' }
+{ name: 'faskdfj', age: 'aksdjlf' }
+{ '{"name":"fasd","age":"alksdj"}': '' }
+{ '{"name":"sdfj","age":"lksjd"}': '' }
+{ name: 'fakj', age: 'aslkjd' }
+{ name: 'fatso', age: 'aslkj' }
+{ name: 'baba', age: 'basd' }
+{ name: 'sdklj', age: 'lakds' }

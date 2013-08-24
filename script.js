@@ -9,7 +9,9 @@ $('#myForm').submit(function(event){
     $.ajax({  
 	type: "POST",  
 	url: "/formhandler",  
-	data: {name: name, age: age},  
+	data: {"name":name, "age": age},  
+//	contentType: "application/json",
+//	dataType: "json",
 //	data: "{'name':'" + name + "', 'age':'" + age + "'}",
 	success: function() {  
 	    //display message back to user here  
